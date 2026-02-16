@@ -115,12 +115,19 @@ Synthetic parameters (premium share, card penetration, peak concentration) are s
 
 ## Strategic Implication
 
-Premium growth interacts with peak concentration and dwell time in a nonlinear manner once utilization approaches capacity.
+### Capacity as a Portfolio and Retention Lever
 
-Waiting for visible crowding results in reactive capital deployment.  
-Proactive expansion aligned with peak overflow probability protects premium experience consistency and portfolio retention economics.
+Lounge capacity should be integrated into portfolio governance rather than treated as an isolated facilities decision. As premium penetration increases, congestion exposure becomes directly linked to customer experience consistency. 
 
-Capacity should be governed as a portfolio-level strategic lever — not merely as a facilities constraint.
+Denied-entry events introduce variability into a benefit that underpins premium acquisition and retention economics. When access reliability deteriorates, the expected lifetime value assumptions embedded in growth strategy are weakened. 
+
+As premium penetration increases, crowding shifts from an operational issue to a customer retention risk. Capacity planning should therefore be aligned with growth targets and evaluated proactively within product strategy cycles. 
+
+### Recommendation 
+
+Under the +6% growth scenario, a 130-seat configuration produces structural instability during peak months. To maintain overflow probability below 20% and preserve a consistent premium experience, planning toward a ~145-seat footprint is recommended. This adjustment is not driven by average demand expansion alone, but by the interaction between portfolio growth, peak-hour concentration, and dwell dynamics. 
+
+The key takeaway is that premium growth interacts with peak concentration and dwell time in a nonlinear way once utilization approaches capacity. At that point, small demand increases require disproportionately larger seating expansion to maintain access reliability. Aligning portfolio growth with peak-capacity thresholds will prevent reactive capital deployment and protect retention economics.
 
 ---
 
