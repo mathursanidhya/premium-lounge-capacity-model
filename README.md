@@ -4,7 +4,10 @@
 
 This project develops a regime-aware forecasting and nonlinear congestion modeling framework to inform capital expansion decisions for premium airport lounges.
 
-As premium credit card portfolios grow, lounge utilization increases. Congestion risk does not grow linearly with passenger volume — it accelerates as peak utilization approaches seating capacity. This framework quantifies that nonlinear risk and identifies capacity expansion triggers before service degradation impacts customer retention.
+Among the most valued premium benefits are airport lounge access privileges. As premium card portfolios expand, lounge utilization increases accordingly. This creates a strategic challenge:
+How should a credit card issuer anticipate and plan lounge capacity as premium customer penetration grows?
+
+Unlike retail environments, lounge congestion behaves nonlinearly. Small increases in premium demand can materially amplify peak-hour crowding once seating thresholds are approached. Average-volume forecasts systematically understate peak-hour congestion risk.
 
 ---
 
